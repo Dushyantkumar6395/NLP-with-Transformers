@@ -1,3 +1,3 @@
 # nlp-with-transformers
 
-![Alt Text](image_path.png)
+![Alt Text](transformers.png)
